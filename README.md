@@ -9,7 +9,7 @@ This was a collaborative project made by 4 members Executed in 5 days.
 5) Sachin
 
 
-  Deploy Link -Netlify:https://clockifyy.netlify.app/
+  Deploy Link -Vercel:https://clockify-one.vercel.app/
 
 ---
 
